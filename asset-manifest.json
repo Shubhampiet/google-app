@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/google-app/static/css/main.c6bc88d1.css",
-    "main.js": "/google-app/static/js/main.f600300f.js",
+    "main.js": "/google-app/static/js/main.b0bf53a3.js",
     "static/js/787.25c5e87b.chunk.js": "/google-app/static/js/787.25c5e87b.chunk.js",
     "static/media/google-pagination-logo copy.png": "/google-app/static/media/google-pagination-logo copy.40de48e89e0cd59958be.png",
     "static/media/image copy.svg": "/google-app/static/media/image copy.b8fed8f89a456609e70d34f0b198dbef.svg",
@@ -9,11 +9,11 @@
     "index.html": "/google-app/index.html",
     "static/media/mic copy.svg": "/google-app/static/media/mic copy.97097c9ee2cbf473e4e2f76431fa121b.svg",
     "main.c6bc88d1.css.map": "/google-app/static/css/main.c6bc88d1.css.map",
-    "main.f600300f.js.map": "/google-app/static/js/main.f600300f.js.map",
+    "main.b0bf53a3.js.map": "/google-app/static/js/main.b0bf53a3.js.map",
     "787.25c5e87b.chunk.js.map": "/google-app/static/js/787.25c5e87b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6bc88d1.css",
-    "static/js/main.f600300f.js"
+    "static/js/main.b0bf53a3.js"
   ]
 }
